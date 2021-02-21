@@ -19,7 +19,7 @@ In this project we build a web application, where a technology school (Bit Rocke
 
 An integration was made via [API](https://mailchimp.com/developer/) of [Mailchimp](https://mailchimp.com/) to manage the catches made by the Landing Page and generate the Campaigns according to each need to reach the desired target audience.
 
-  <img src="./assets/images/prototype.png" alt="aplication prototype image" title="application prototype">
+![prototype](https://user-images.githubusercontent.com/990877/108635230-28c96580-745d-11eb-9815-92f25dcefe78.jpg)
 
 Initial prototype made in [Marvel](https://marvelapp.com)
 
