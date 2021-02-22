@@ -11,6 +11,12 @@
 
 ## 1. Preamble
 
+It is a way for a person interested in a subject to subscribe to receive information about the subject of interest.
+
+In this case we capture the name and email of the interested visitor.
+
+On the other hand, who is the promoter of the content/event will be able to notify everyone at once in a simple and quick way, it is a means of mass communication using an API (tool) of email marketink.
+
 Landing page are website pages where leads arrive and know the company or its services. This type of page is intended to draw the attention of "visitors to convert them into leads by obtaining their contact details. This project is a very simple landing page, focusing on converting the visitor interested in lead.
 
 ## 2. Project summary
