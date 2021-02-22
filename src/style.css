@@ -1,0 +1,107 @@
+@font-face{
+    font-family: "Inconsolata";
+    src: url(../assets/fonts/Inconsolata/Inconsolata-VariableFont_wdth\,wght.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Inconsolata;
+    background-color: #1C2840;
+    background-image: url('../assets/images/background/background.png');
+    background-size: 1000px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+.container{
+    max-width: 1000px;
+    margin: auto;
+}
+header{
+    background-color: #F20530;
+    text-align: center;
+    color: #1C2840;
+    padding: 10px;
+}
+.title{
+      font-size: 26px;
+}
+section{
+    padding: 20px;
+    background-size: cover;
+    overflow: hidden;
+}
+.formContainer{
+    max-width: 230px;
+    background-color: #F20530;
+    opacity: 0.8;
+    padding: 20px;
+    float: right;
+}
+.caption{
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+.marginBotton{
+    margin-bottom: 15px;
+}
+input, select{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    border: none;
+    margin-bottom: 10px;
+}
+input[type="submit"]{
+    color: #1C2840;
+    background-color: #5CD7F2;
+    font-weight: bolder;
+}
+input:focus{
+    background-color: #5CD7F2;
+}
+input:hover{
+    background-color: #5CD7F2;
+}
+select:hover{
+    background-color: #5CD7F2;  
+}
+#visitorSubmit:hover{
+    background-color: #1C2840;
+    color: #5CD7F2;
+}
+select{
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    background-image: url('../assets/images/arrow.jpg');
+    background-repeat: no-repeat;
+    background-position-x: calc(100% - 10px);
+    background-position-y: center;
+}
+footer{
+    background-color: #5CD7F2;
+    opacity: 0.6;
+    text-align: center;
+}
+.description{
+    display: inline-block;
+    text-align: left;
+    text-align: justify;
+    max-width: 65%;
+    height: 276px;
+}
+.description p, .description h3{
+    margin-bottom: 20px;;
+    margin-left: 20px;
+}
+.description h3{
+    font-size: 23px;
+    padding-top: 33px;
+}
+.description p{
+    font-size: 22px;
+    font-weight: bolder;
+}
