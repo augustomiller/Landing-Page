@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="../assets/images/favIcon.png" type="image/png">
     <link rel="stylesheet" type="text/css" href="./style.css">
+    <script src="./code.js"></script>
     <title>Bit Rocket School</title>
 </head>
 
@@ -31,10 +32,10 @@
                         class="validate"
                         target="_blank" novalidate
                     >
-                        <input id="visitorName" name="FNAME" type="text" placeholder="Your name" required>
-                        <input id="visitorEmail" name="EMAIL" type="email" placeholder="Your Email" required>
+                        <input id="visitorName" name="FNAME" type="text" placeholder="Your name" tabindex="1" required>
+                        <input id="visitorEmail" name="EMAIL" type="email" placeholder="Your Email" tabindex="2" required>
 
-                        <select name="PLACE">
+                        <select name="PLACE" tabindex="3">
                             <option value="tk">Tókio</option>
                             <option value="jt">Jacarta</option>
                             <option value="dl">Deli</option>
@@ -60,7 +61,7 @@
                         <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                         <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c939ff478bb53cf1965f21faa_0fbb510e43" tabindex="-1" value=""></div>
 
-                        <input id="visitorSubmit" type="submit" value="SUBSCRIBE">
+                        <input id="visitorSubmit" type="submit" value="SUBSCRIBE" tabindex="4">
                     </form>
                 </div>
             </section>
