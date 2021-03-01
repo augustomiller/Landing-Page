@@ -8,6 +8,8 @@
 - [4. General considerations](#4-general-considerations)
 
 ---
+![Home](https://user-images.githubusercontent.com/990877/109439958-2e035300-7a0f-11eb-9ae5-428ff662abad.png)
+
 
 ## 1. Preamble
 
